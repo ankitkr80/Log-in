@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "ankit1",
+    "email": "ankit1@gmail.com",
+    "created_at": "2024-07-16T14:56:25.689Z",
+    "updated_at": "2024-07-16T14:56:25.689Z"
+  },
+  {
+    "id": 2,
+    "username": "Testing patch",
+    "email": "patch@gmail.com",
+    "created_at": "2024-07-16T14:56:35.548Z",
+    "updated_at": "2024-07-16T14:58:50.169Z"
+  },
+  {
+    "id": 3,
+    "username": "ankit03",
+    "email": "ankit03@gmail.com",
+    "created_at": "2024-07-16T14:56:46.213Z",
+    "updated_at": "2024-07-16T14:56:46.213Z"
+  },
+  {
+    "id": 4,
+    "username": "ankit4",
+    "email": "ankit4@gmail.com",
+    "created_at": "2024-07-16T15:02:23.687Z",
+    "updated_at": "2024-07-16T15:02:23.687Z"
+  }
+]
